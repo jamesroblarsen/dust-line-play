@@ -1,6 +1,6 @@
 # Dust Line
 
-A two-player co-op escape across the desert by train. Windows only for now.
+A co-op escape across the desert by train for 2 to 4 players (online with a join code). Windows only for now.
 
 ## ⬇ [Download Dust Line for Windows](https://github.com/jamesroblarsen/dust-line-play/releases/latest/download/DustLine-windows.zip)
 
